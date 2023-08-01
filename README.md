@@ -6,15 +6,15 @@
 ### Appearance
 
 #### Main Page
-![pic1](/Users/peng/Desktop/Practice/spotify2.0/pics/pic1.jpg)
+![pic1](./pics/pic1.jpg)
 #### Song Details
-![pic2](/Users/peng/Desktop/Practice/spotify2.0/pics/pic2.jpg)
+![pic2](./pics/pic2.jpg)
 #### Artist Details
-![pic3](/Users/peng/Desktop/Practice/spotify2.0/pics/pic3.jpg)
+![pic3](./pics/pic3.jpg)
 #### Search songs you like
-![pic4](/Users/peng/Desktop/Practice/spotify2.0/pics/pic4.jpg)
+![pic4](./pics/pic4.jpg)
 #### Responsive on mobile device
 
-![pic5](/Users/peng/Desktop/Practice/spotify2.0/pics/pic5.jpg)
+![pic5](./pics/pic5.jpg)
 
 
