@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://sbodify.netlify.app/" >
-    <img src="/Users/peng/Desktop/Practice/spotify2.0/src/assets/colorLogo.svg" alt="Logo" width="30%">
+    <img src="src/assets/colorLogo.svg" alt="Logo" width="30%">
   </a>
 <!--  <a href="https://sbodify.netlify.app/">
     <h1 align="center">Spodify</h1>
@@ -12,7 +12,7 @@
   </h3>
 </p>
 <p align="center">
-<img src="/Users/peng/Desktop/Practice/spotify2.0/pics/pic1.jpg" style="width:90%;margin-left:auto" alt="img1" >   
+<img src="pics/pic1.jpg" style="width:90%;margin-left:auto" alt="img1" >   
 </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -27,9 +27,9 @@
   - **Music for Specific Country**: Show the top songs from the user’s country. 
 
 <p align="center">
-<img src="/Users/peng/Desktop/Practice/spotify2.0/pics/pic2.jpg" style="width:30%;margin-left:auto;" alt="img1" >   &emsp14;&emsp14;&emsp14;&emsp14;
+<img src="pics/pic2.jpg" style="width:30%;margin-left:auto;" alt="img1" >   &emsp14;&emsp14;&emsp14;&emsp14;
   &emsp14;&emsp14;&emsp14;&emsp14;&emsp14;&emsp14;&emsp14;&emsp14;
-  <img src="/Users/peng/Desktop/Practice/spotify2.0/pics/pic3.jpg" style="width:30%;margin-left:auto;height:50%" alt="img1" >
+  <img src="pics/pic3.jpg" style="width:30%;margin-left:auto;height:50%" alt="img1" >
 </p>
 
 ### Built With
