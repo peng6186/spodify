@@ -1,20 +1,54 @@
-## Project Sbodify
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://sbodify.netlify.app/" >
+    <img src="/Users/peng/Desktop/Practice/spotify2.0/src/assets/colorLogo.svg" alt="Logo" width="30%">
+  </a>
+<!--  <a href="https://sbodify.netlify.app/">
+    <h1 align="center">Spodify</h1>
+  </a>-->
+  <h3 align="center">
+   A modern full-fledge music player allowing you to explore your favorite songs. 
+  </h3>
+</p>
+<p align="center">
+<img src="/Users/peng/Desktop/Practice/spotify2.0/pics/pic1.jpg" style="width:90%;margin-left:auto" alt="img1" >   
+</p>
 
->  Develop a modern music application using React, ReduxToolkit, RTK Query, RapidApi, and TailwindCSS. Playing with this app, please visit [this link](https://sbodify.netlify.app/).
+<!-- ABOUT THE PROJECT -->
 
+## About The Project
 
-### Appearance
+**[Sbodify](https://sbodify.netlify.app/)** is an modern music application that allows you to discover your favorite songs based on genres, popular music around you, world top charts, etc.
+
+### Key Features
+
+- **Discovery**: Discover most currently popular songs based on the genre and also allow users to search their own ones.
+- **Song Detail**: Users can see additional information about the song, such as the song’s music video and lyrics and a list of simiar songs.
+- **Artist Details Page**: Users can see additional information about the artist and their most popular songs.
+- **Music for Specific Country**: Show the top songs from the user’s country.
 
 #### Main Page
-![pic1](./pics/pic1.jpg)
+
+![pic1](/Users/peng/Desktop/Practice/spotify2.0/pics/pic1.jpg)
+
 #### Song Details
-![pic2](./pics/pic2.jpg)
+
+![pic2](/Users/peng/Desktop/Practice/spotify2.0/pics/pic2.jpg)
+
 #### Artist Details
-![pic3](./pics/pic3.jpg)
+
+![pic3](/Users/peng/Desktop/Practice/spotify2.0/pics/pic3.jpg)
+
 #### Search songs you like
-![pic4](./pics/pic4.jpg)
+
+![pic4](/Users/peng/Desktop/Practice/spotify2.0/pics/pic4.jpg)
+
 #### Responsive on mobile device
 
-![pic5](./pics/pic5.jpg)
+![pic5](/Users/peng/Desktop/Practice/spotify2.0/pics/pic5.jpg)
 
-
+- React
+- Redux
+- TailwindCSS
+- Shazam API
