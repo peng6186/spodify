@@ -18,7 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**[Sbodify](https://sbodify.netlify.app/)** is an modern music application that allows you to discover your favorite songs based on genres, popular music around you, world top charts, etc.
+**[Sbodify](https://sbodify.netlify.app/)** is a modern music application that allows you to discover your favorite songs based on genres, popular music around you, world top charts, etc.
 
 ### Key Features
   - **Discovery**: Discover most currently popular songs based on the genre and also allow users to search their own ones.
